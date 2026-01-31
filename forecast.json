@@ -37,8 +37,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "3.6",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.05h",
@@ -46,8 +45,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "3.4",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.07h",
@@ -55,8 +53,7 @@
     "rajadas_kmh": "19",
     "ondulacao_m": "3.3",
     "periodo_vaga_s": "14",
-    "temperatura_c": "14",
-    "apcp1s": "0.1"
+    "temperatura_c": "14"
   },
   {
     "dates": "Dom1.09h",
@@ -72,8 +69,7 @@
     "rajadas_kmh": "17",
     "ondulacao_m": "3",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.1"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.13h",
@@ -81,8 +77,7 @@
     "rajadas_kmh": "21",
     "ondulacao_m": "2.9",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.3"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.15h",
@@ -90,8 +85,7 @@
     "rajadas_kmh": "25",
     "ondulacao_m": "2.8",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.3"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.17h",
@@ -99,8 +93,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "2.7",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.1"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.19h",
@@ -108,8 +101,7 @@
     "rajadas_kmh": "26",
     "ondulacao_m": "2.8",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.1"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom1.21h",
@@ -117,8 +109,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "2.9",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.1"
+    "temperatura_c": "15"
   },
   {
     "dates": "Seg2.03h",
@@ -126,8 +117,7 @@
     "rajadas_kmh": "38",
     "ondulacao_m": "4",
     "periodo_vaga_s": "8",
-    "temperatura_c": "14",
-    "apcp1s": "8"
+    "temperatura_c": "14"
   },
   {
     "dates": "Seg2.05h",
@@ -135,8 +125,7 @@
     "rajadas_kmh": "32",
     "ondulacao_m": "4.6",
     "periodo_vaga_s": "9",
-    "temperatura_c": "13",
-    "apcp1s": "0.4"
+    "temperatura_c": "13"
   },
   {
     "dates": "Seg2.07h",
@@ -144,8 +133,7 @@
     "rajadas_kmh": "31",
     "ondulacao_m": "5.2",
     "periodo_vaga_s": "10",
-    "temperatura_c": "12",
-    "apcp1s": "0.3"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.09h",
@@ -153,8 +141,7 @@
     "rajadas_kmh": "31",
     "ondulacao_m": "5.6",
     "periodo_vaga_s": "12",
-    "temperatura_c": "12",
-    "apcp1s": "0.4"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.11h",
@@ -162,8 +149,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "5.9",
     "periodo_vaga_s": "12",
-    "temperatura_c": "12",
-    "apcp1s": "0.1"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.13h",
@@ -171,8 +157,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "6",
     "periodo_vaga_s": "13",
-    "temperatura_c": "13",
-    "apcp1s": "0.1"
+    "temperatura_c": "13"
   },
   {
     "dates": "Seg2.15h",
@@ -180,8 +165,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "6.1",
     "periodo_vaga_s": "13",
-    "temperatura_c": "12",
-    "apcp1s": "0.3"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.17h",
@@ -189,8 +173,7 @@
     "rajadas_kmh": "27",
     "ondulacao_m": "6.1",
     "periodo_vaga_s": "13",
-    "temperatura_c": "12",
-    "apcp1s": "0.3"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.19h",
@@ -198,8 +181,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "6.1",
     "periodo_vaga_s": "14",
-    "temperatura_c": "12",
-    "apcp1s": "0.3"
+    "temperatura_c": "12"
   },
   {
     "dates": "Seg2.21h",
@@ -207,8 +189,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "6.1",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "1"
+    "temperatura_c": "11"
   },
   {
     "dates": "Ter3.03h",
@@ -216,8 +197,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "5.9",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "1.2"
+    "temperatura_c": "11"
   },
   {
     "dates": "Ter3.05h",
@@ -225,8 +205,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "5.9",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "0.5"
+    "temperatura_c": "11"
   },
   {
     "dates": "Ter3.07h",
@@ -234,8 +213,7 @@
     "rajadas_kmh": "23",
     "ondulacao_m": "5.9",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "0.4"
+    "temperatura_c": "11"
   },
   {
     "dates": "Ter3.09h",
@@ -243,8 +221,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "5.9",
     "periodo_vaga_s": "14",
-    "temperatura_c": "12",
-    "apcp1s": "0.4"
+    "temperatura_c": "12"
   },
   {
     "dates": "Ter3.11h",
@@ -252,8 +229,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "5.8",
     "periodo_vaga_s": "14",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Ter3.13h",
@@ -261,8 +237,7 @@
     "rajadas_kmh": "21",
     "ondulacao_m": "5.8",
     "periodo_vaga_s": "14",
-    "temperatura_c": "13",
-    "apcp1s": "0.1"
+    "temperatura_c": "13"
   },
   {
     "dates": "Ter3.15h",
@@ -278,8 +253,7 @@
     "rajadas_kmh": "19",
     "ondulacao_m": "5.5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.7"
+    "temperatura_c": "12"
   },
   {
     "dates": "Ter3.19h",
@@ -287,8 +261,7 @@
     "rajadas_kmh": "18",
     "ondulacao_m": "5.2",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.4"
+    "temperatura_c": "12"
   },
   {
     "dates": "Ter3.21h",
@@ -296,8 +269,7 @@
     "rajadas_kmh": "20",
     "ondulacao_m": "5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.9"
+    "temperatura_c": "12"
   },
   {
     "dates": "Qua4.03h",
@@ -305,8 +277,7 @@
     "rajadas_kmh": "31",
     "ondulacao_m": "4.3",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.5"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.05h",
@@ -314,8 +285,7 @@
     "rajadas_kmh": "34",
     "ondulacao_m": "4.5",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.07h",
@@ -323,8 +293,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "4.5",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.09h",
@@ -332,8 +301,7 @@
     "rajadas_kmh": "26",
     "ondulacao_m": "4.5",
     "periodo_vaga_s": "14",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.11h",
@@ -341,8 +309,7 @@
     "rajadas_kmh": "23",
     "ondulacao_m": "4.4",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.3"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.13h",
@@ -350,8 +317,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "4.4",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.15h",
@@ -359,8 +325,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "4.7",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.3"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.17h",
@@ -368,8 +333,7 @@
     "rajadas_kmh": "33",
     "ondulacao_m": "4.7",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.19h",
@@ -377,8 +341,7 @@
     "rajadas_kmh": "32",
     "ondulacao_m": "4.8",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "0.8"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qua4.21h",
@@ -386,8 +349,7 @@
     "rajadas_kmh": "33",
     "ondulacao_m": "4.9",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "1.7"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.03h",
@@ -395,8 +357,7 @@
     "rajadas_kmh": "38",
     "ondulacao_m": "5.2",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "2.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.06h",
@@ -404,8 +365,7 @@
     "rajadas_kmh": "34",
     "ondulacao_m": "5.7",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "1.8"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.09h",
@@ -413,8 +373,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "5.6",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "0.6"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.12h",
@@ -422,8 +381,7 @@
     "rajadas_kmh": "33",
     "ondulacao_m": "5.5",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.2"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.15h",
@@ -431,8 +389,7 @@
     "rajadas_kmh": "33",
     "ondulacao_m": "5.4",
     "periodo_vaga_s": "17",
-    "temperatura_c": "15",
-    "apcp1s": "0.4"
+    "temperatura_c": "15"
   },
   {
     "dates": "Qui5.18h",
@@ -440,8 +397,7 @@
     "rajadas_kmh": "27",
     "ondulacao_m": "5.4",
     "periodo_vaga_s": "17",
-    "temperatura_c": "14",
-    "apcp1s": "0.3"
+    "temperatura_c": "14"
   },
   {
     "dates": "Qui5.21h",
@@ -449,8 +405,7 @@
     "rajadas_kmh": "23",
     "ondulacao_m": "5.4",
     "periodo_vaga_s": "16",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Sex6.03h",
@@ -458,8 +413,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "13",
-    "apcp1s": "0.4"
+    "temperatura_c": "13"
   },
   {
     "dates": "Sex6.06h",
@@ -467,8 +421,7 @@
     "rajadas_kmh": "20",
     "ondulacao_m": "4.8",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.4"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sex6.09h",
@@ -476,8 +429,7 @@
     "rajadas_kmh": "21",
     "ondulacao_m": "4.6",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.8"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sex6.12h",
@@ -485,8 +437,7 @@
     "rajadas_kmh": "24",
     "ondulacao_m": "4.5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "13",
-    "apcp1s": "0.8"
+    "temperatura_c": "13"
   },
   {
     "dates": "Sex6.15h",
@@ -494,8 +445,7 @@
     "rajadas_kmh": "25",
     "ondulacao_m": "4.5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "12",
-    "apcp1s": "0.4"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sex6.18h",
@@ -503,8 +453,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "4.6",
     "periodo_vaga_s": "15",
-    "temperatura_c": "11",
-    "apcp1s": "0.2"
+    "temperatura_c": "11"
   },
   {
     "dates": "Sex6.21h",
@@ -512,8 +461,7 @@
     "rajadas_kmh": "19",
     "ondulacao_m": "4.7",
     "periodo_vaga_s": "15",
-    "temperatura_c": "11",
-    "apcp1s": "0.2"
+    "temperatura_c": "11"
   },
   {
     "dates": "Sáb7.03h",
@@ -521,8 +469,7 @@
     "rajadas_kmh": "19",
     "ondulacao_m": "4.9",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "0.3"
+    "temperatura_c": "11"
   },
   {
     "dates": "Sáb7.06h",
@@ -530,8 +477,7 @@
     "rajadas_kmh": "17",
     "ondulacao_m": "4.8",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "0.1"
+    "temperatura_c": "11"
   },
   {
     "dates": "Sáb7.09h",
@@ -539,8 +485,7 @@
     "rajadas_kmh": "12",
     "ondulacao_m": "4.6",
     "periodo_vaga_s": "14",
-    "temperatura_c": "11",
-    "apcp1s": "0.2"
+    "temperatura_c": "11"
   },
   {
     "dates": "Sáb7.12h",
@@ -548,8 +493,7 @@
     "rajadas_kmh": "13",
     "ondulacao_m": "4.2",
     "periodo_vaga_s": "14",
-    "temperatura_c": "12",
-    "apcp1s": "1.1"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sáb7.15h",
@@ -557,8 +501,7 @@
     "rajadas_kmh": "14",
     "ondulacao_m": "3.9",
     "periodo_vaga_s": "13",
-    "temperatura_c": "12",
-    "apcp1s": "0.5"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sáb7.18h",
@@ -566,8 +509,7 @@
     "rajadas_kmh": "12",
     "ondulacao_m": "4.1",
     "periodo_vaga_s": "13",
-    "temperatura_c": "12",
-    "apcp1s": "0.2"
+    "temperatura_c": "12"
   },
   {
     "dates": "Sáb7.21h",
@@ -591,8 +533,7 @@
     "rajadas_kmh": "17",
     "ondulacao_m": "3.6",
     "periodo_vaga_s": "13",
-    "temperatura_c": "13",
-    "apcp1s": "0.1"
+    "temperatura_c": "13"
   },
   {
     "dates": "Dom8.09h",
@@ -600,8 +541,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "3.5",
     "periodo_vaga_s": "13",
-    "temperatura_c": "14",
-    "apcp1s": "0.8"
+    "temperatura_c": "14"
   },
   {
     "dates": "Dom8.12h",
@@ -609,8 +549,7 @@
     "rajadas_kmh": "27",
     "ondulacao_m": "3.5",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.8"
+    "temperatura_c": "15"
   },
   {
     "dates": "Dom8.15h",
@@ -618,8 +557,7 @@
     "rajadas_kmh": "29",
     "ondulacao_m": "3.8",
     "periodo_vaga_s": "13",
-    "temperatura_c": "14",
-    "apcp1s": "1.4"
+    "temperatura_c": "14"
   },
   {
     "dates": "Dom8.18h",
@@ -627,8 +565,7 @@
     "rajadas_kmh": "31",
     "ondulacao_m": "4.3",
     "periodo_vaga_s": "12",
-    "temperatura_c": "14",
-    "apcp1s": "1.7"
+    "temperatura_c": "14"
   },
   {
     "dates": "Dom8.21h",
@@ -636,8 +573,7 @@
     "rajadas_kmh": "30",
     "ondulacao_m": "4.9",
     "periodo_vaga_s": "12",
-    "temperatura_c": "15",
-    "apcp1s": "0.6"
+    "temperatura_c": "15"
   },
   {
     "dates": "Seg9.03h",
@@ -645,8 +581,7 @@
     "rajadas_kmh": "29",
     "ondulacao_m": "5.7",
     "periodo_vaga_s": "13",
-    "temperatura_c": "15",
-    "apcp1s": "0.4"
+    "temperatura_c": "15"
   },
   {
     "dates": "Seg9.06h",
@@ -654,8 +589,7 @@
     "rajadas_kmh": "20",
     "ondulacao_m": "5.4",
     "periodo_vaga_s": "13",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Seg9.09h",
@@ -751,8 +685,7 @@
     "rajadas_kmh": "15",
     "ondulacao_m": "2.2",
     "periodo_vaga_s": "12",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Qua11.03h",
@@ -760,8 +693,7 @@
     "rajadas_kmh": "15",
     "ondulacao_m": "2",
     "periodo_vaga_s": "11",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Qua11.06h",
@@ -769,8 +701,7 @@
     "rajadas_kmh": "15",
     "ondulacao_m": "1.9",
     "periodo_vaga_s": "11",
-    "temperatura_c": "13",
-    "apcp1s": "0.1"
+    "temperatura_c": "13"
   },
   {
     "dates": "Qua11.09h",
@@ -818,8 +749,7 @@
     "rajadas_kmh": "22",
     "ondulacao_m": "3.2",
     "periodo_vaga_s": "18",
-    "temperatura_c": "12",
-    "apcp1s": "1.2"
+    "temperatura_c": "12"
   },
   {
     "dates": "Qui12.06h",
@@ -827,8 +757,7 @@
     "rajadas_kmh": "19",
     "ondulacao_m": "3.5",
     "periodo_vaga_s": "15",
-    "temperatura_c": "11",
-    "apcp1s": "0.2"
+    "temperatura_c": "11"
   },
   {
     "dates": "Qui12.09h",
@@ -836,8 +765,7 @@
     "rajadas_kmh": "17",
     "ondulacao_m": "3.6",
     "periodo_vaga_s": "17",
-    "temperatura_c": "12",
-    "apcp1s": "0.5"
+    "temperatura_c": "12"
   },
   {
     "dates": "Qui12.12h",
@@ -845,8 +773,7 @@
     "rajadas_kmh": "16",
     "ondulacao_m": "3.6",
     "periodo_vaga_s": "16",
-    "temperatura_c": "13",
-    "apcp1s": "0.4"
+    "temperatura_c": "13"
   },
   {
     "dates": "Qui12.15h",
@@ -854,8 +781,7 @@
     "rajadas_kmh": "13",
     "ondulacao_m": "3.8",
     "periodo_vaga_s": "16",
-    "temperatura_c": "14",
-    "apcp1s": "0.2"
+    "temperatura_c": "14"
   },
   {
     "dates": "Qui12.18h",
@@ -863,8 +789,7 @@
     "rajadas_kmh": "12",
     "ondulacao_m": "4.2",
     "periodo_vaga_s": "16",
-    "temperatura_c": "13",
-    "apcp1s": "0.2"
+    "temperatura_c": "13"
   },
   {
     "dates": "Qui12.21h",

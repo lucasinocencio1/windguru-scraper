@@ -24,5 +24,5 @@ PARAM_LABELS = {
     "TIDE": "mare",
 }
 
-# Labels to exclude from the output
-EXCLUDED_LABELS = {"tides", "cdc", "direcao_vaga", "mare"}
+# Labels to include in the output (only these will be returned)
+INCLUDED_LABELS = {"dates", "vento_kmh", "rajadas_kmh", "ondulacao_m", "periodo_vaga_s", "temperatura_c"}

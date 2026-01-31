@@ -1,6 +1,6 @@
 import json
 
-from constants import EXCLUDED_LABELS, PARAM_LABELS
+from constants import INCLUDED_LABELS, PARAM_LABELS
 
 
 def format_forecast(raw_forecast: dict) -> list[dict]:
@@ -36,7 +36,7 @@ def format_forecast(raw_forecast: dict) -> list[dict]:
         for row_id, values in raw_forecast.items():
             param = get_param(row_id)
             label = PARAM_LABELS.get(param, param.lower())
-            if label in EXCLUDED_LABELS:
+            if label not in INCLUDED_LABELS:
                 continue
 
             if i < len(values) and values[i]:
