@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import re
+import json
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,9 +10,12 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from time import sleep
 
-link = 'https://www.windguru.cz/48963' #id for caparica
+from mapping import format_forecast, print_forecast
 
-class Scraper(object):
+LINK = "https://www.windguru.cz/48963"  # id for caparica
+
+
+class Scraper:
     def __init__(self):
         options = Options()
         options.add_argument("--headless")
@@ -21,9 +24,10 @@ class Scraper(object):
         options.add_argument("--window-size=1120,550")
         self.driver = webdriver.Chrome(options=options)
 
-    def scrape(self):
-        print('Loading...')
-        self.driver.get(link)
+    def scrape(self, url: str | None = None) -> list[dict]:
+        url = url or LINK
+        print("Loading...")
+        self.driver.get(url)
         WebDriverWait(self.driver, 15).until(
             EC.presence_of_element_located((By.CLASS_NAME, "tabulka"))
         )
@@ -31,13 +35,9 @@ class Scraper(object):
 
         forecast = {}
 
-    # windguru use tabulka class to get the table   
-    # while True:
+        # Windguru uses tabulka class for the forecast table
         s = BeautifulSoup(self.driver.page_source, "html.parser")
-        text_file = open("forecast.txt", "w")
-        text_file.write(str(s.find_all('script')))      
-        text_file.close()
-        table = s.find("table", {"class": "tabulka"}) #find the table with the class tabulka the first one, use find_all if there are multiple tables
+        table = s.find("table", {"class": "tabulka"})
         if not table:
             raise RuntimeError(
                 "Table 'tabulka' was not found. The site structure may have changed."
@@ -46,27 +46,40 @@ class Scraper(object):
         if not tbody:
             raise RuntimeError("tbody element not found in the table.")
         rows = tbody.find_all("tr")
-        # rows = s.find("table", {"class": "tabulka"}).find("tbody").find_all("tr", {"id": "tabid_0_0_WINDSPD"})
 
         for row in rows:
             cells = row.find_all("td")
-            id = row['id']
-            forecast[id] = []
-            i = 0
+            row_id = row["id"]
+            forecast[row_id] = []
             for cell in cells:
-                if ('DIRPW' in id): # or ('DIRPW' in id):
-                    print(id + " " + str(i))
-                    value = cell.find('span').find('svg').find('g')["transform"]
+                if "DIRPW" in row_id or "WAVEDIR" in row_id:
+                    try:
+                        span = cell.find("span")
+                        svg = span.find("svg") if span else None
+                        g = svg.find("g") if svg else None
+                        value = (
+                            g["transform"]
+                            if g and g.get("transform")
+                            else (cell.get_text(strip=True) or "-")
+                        )
+                    except (AttributeError, TypeError):
+                        value = cell.get_text(strip=True) or "-"
                 else:
-                    value = cell.get_text()
-                forecast[id].append(value)
-                i = i + 1
-
-        print(forecast)
+                    value = cell.get_text(strip=True) or "-"
+                forecast[row_id].append(str(value))
 
         self.driver.quit()
-        return forecast
 
-if __name__ == '__main__':
+        formatted = format_forecast(forecast)
+        print_forecast(formatted)
+        return formatted
+
+
+if __name__ == "__main__":
     scraper = Scraper()
-    scraper.scrape()
+    data = scraper.scrape()
+
+    # Save to JSON for later use
+    with open("forecast.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("\n→ Saved to forecast.json")
