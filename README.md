@@ -6,4 +6,3 @@ https://www.windguru.cz/[48963] -> The code use the id to bring the informations
 
 To run use the command: `python src/scraper.py` ```
 
-# windguru-scraper
