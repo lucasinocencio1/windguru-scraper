@@ -3,7 +3,7 @@
 
 A Python script for scraping surf forecasts from Windguru￼to bring your favorite spot informations.
 
-The script uses the spot ID to fetch forecast data, for example (https://www.windguru.cz[id]):
+The script uses the spot ID to fetch forecast data, for example (https://www.windguru.cz/[id]):
 
 https://www.windguru.cz/48963 -> caparica spot
 
